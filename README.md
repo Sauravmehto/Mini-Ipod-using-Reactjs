@@ -79,43 +79,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
    <br/>
    <br/>
 
-## 🔗 Links
 
-> ## Checkout the Website [Web Application](https://ayush-kanduri.github.io/Mini-Ipod-App-ReactJS)
->
-> ## Checkout the Application Demo Video [YouTube](https://youtu.be/XZuMTBohjBU)
-
-<br/>
-
-## 💻 Screens
-
-<p align="justify">
-<img src="https://user-images.githubusercontent.com/76626529/135662491-261ae6f1-d8db-4a64-8cf3-ddb03969ebb8.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662508-7edefa63-4ccc-4b28-9b5a-279b341515fa.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662511-435d635c-7175-4455-a5a1-d0b0ec03436b.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662513-8169d2b8-5c3f-4f98-b906-8436e80f4630.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662520-2b8f856b-2393-45cb-b495-c4aedc1a64cd.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662530-ad2b4ef2-ab5d-46a3-a9d3-ce77a9ea6216.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662536-b7965031-a3e8-4784-a652-28f7784c23f2.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662540-3ca547c5-91ff-4216-a918-3b231b8bbc05.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662545-1c03ab42-3e2e-4bf5-99a9-c33203f8aad7.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662554-ea6e1270-5375-49bc-b3ef-55f0f273c92e.PNG">
-</p>
-<br/>
-
-## 🐦 Follow Me:
-
-> [Dev Community](https://dev.to/ayushkanduri)
-
-> [Twitter](https://twitter.com/ayush_codes)
-
-> [LinkedIn](https://www.linkedin.com/in/ayushkanduri/)
-
-> [YouTube](https://www.youtube.com/channel/UC6c1ajC_2jF7wQp7Y13t2bg)
-
-I hope you like the project. Thanks for reading :)
-
-#
 
 # Getting Started with Create React App
 
@@ -163,32 +127,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
